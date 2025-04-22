@@ -14,6 +14,17 @@ export const projects: Project[] = [
     tags: ['DeFi', 'AMM', 'DEX'],
   },
   {
+    type: 'project', // Choose from: 'project', 'infrastructure', or 'tooling'
+    name: '42Agents.ai',
+    blurb: '42 Agents easily integrates into your communication channels to offer you with round the clock customer support. No more \"wen token\" or \"why tx failed\" keeping your team up at night',
+    logo: '/projects/your-project-name/logo.png',
+    status: 'live',
+    x: 'https://x.com/42agents_ai',
+    website: 'https://www.42agents.ai',
+    banner: '/projects/your-project-name/banner.png',
+    tags: ['AI', 'DeFi'], // Choose from available tags in types.ts
+  },
+  {
     type: 'project',
     name: 'For The Kingdom',
     blurb: "For The Kingdom is a web based MMORPG with a player driven economy and fully onchain gameplay. Players can risk tokens, create and monetize assets, and build custom logic and mods. Everything from game logic to world state lives on the blockchain.",
