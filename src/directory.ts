@@ -332,17 +332,7 @@ export const projects: Project[] = [
     x: 'https://x.com/rubyscore_io',
     tags: ['Data'],
   },
-  {
-    type: 'infrastructure',
-    name: 'VIA Labs',
-    blurb: 'VIA Labs equips developers with tools to scale across multiple blockchain networks, enabling seamless and efficient omnichain interoperability.',
-    logo: '/projects/vialabs/logo.png',
-    banner: '/projects/vialabs/banner.png',
-    status: 'live',
-    website: 'https://vialabs.io/',
-    x: 'https://x.com/VIA_Labs',
-    tags: ['Interoperability', 'Bridge', 'Oracles'],
-  },
+
   {
     type: 'tooling',
     name: 'Mud',
