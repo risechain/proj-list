@@ -379,5 +379,15 @@ export const projects: Project[] = [
     status: 'coming soon',
     x: 'https://x.com/CentuariLabs',
     tags: ["DeFi", "DAO", "Yield"],
+  },
+  {
+    type: 'project',
+    name: 'Stabilis',
+    blurb: 'Native Stablecoin on RISE',
+    logo: '/projects/stabilis/logo.png',
+    banner: '/projects/stabilis/banner.png',
+    status: 'coming soon',
+    native: true,
+    tags: ['DeFi', 'Yield'],
   }
 ];
