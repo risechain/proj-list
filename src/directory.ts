@@ -389,5 +389,15 @@ export const projects: Project[] = [
     status: 'coming soon',
     native: true,
     tags: ['DeFi', 'Yield'],
+  },
+  {
+    type: 'project',
+    name: 'RisePunks',
+    blurb: 'A unique NFT collection of cyberpunk survivors fighting for freedom in a post-apocalyptic wasteland. Built on Rise chain - no gas, no gods, just Punks.',
+    logo: '/projects/RisePunks/logo.png',
+    banner: '/projects/RisePunks/banner.png',
+    status: 'coming soon',
+    x: 'https://x.com/RisePunks',
+    tags: ['NFT'],
   }
 ];
