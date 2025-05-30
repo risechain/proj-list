@@ -173,7 +173,7 @@ export const projects: Project[] = [
     docs: 'https://docs.netsepio.com/',
     x: 'https://x.com/netsepio',
     status: 'live',
-    blurb: "NetSepio powers a DePIN-backed internet that’s private, secure, and agentic - connecting users and AI agents through trusted, decentralized networks.",
+    blurb: "NetSepio powers a DePIN-backed internet that's private, secure, and agentic - connecting users and AI agents through trusted, decentralized networks.",
     logo: '/projects/netsepio/logo.png',
     banner: '/projects/netsepio/banner.png',
     website: 'https://netsepio.com/',
@@ -241,7 +241,7 @@ export const projects: Project[] = [
   {
     type: 'tooling',
     name: 'Goldsky',
-    blurb: "Goldsky is Web3’s Realtime Data Platform. Build powerful dApps faster with high-performance blockchain indexing, instant subgraphs, and custom data streaming pipelines.",
+    blurb: "Goldsky is Web3's Realtime Data Platform. Build powerful dApps faster with high-performance blockchain indexing, instant subgraphs, and custom data streaming pipelines.",
     status: 'live',
     logo: '/projects/goldsky/logo.png',
     banner: '/projects/goldsky/banner.png',
@@ -251,7 +251,7 @@ export const projects: Project[] = [
   {
     type: 'tooling',
     name: 'Stork',
-    blurb: 'Stork’s Open Data Market unlocks access to decentralized, reliable, and unique data, empowering you to build your vision without compromise.',
+    blurb: 'Stork\'s Open Data Market unlocks access to decentralized, reliable, and unique data, empowering you to build your vision without compromise.',
     status: 'live',
     logo: '/projects/stork/logo.webp',
     banner: '/projects/stork/banner.webp',
@@ -286,7 +286,7 @@ export const projects: Project[] = [
     name: 'NetSepio',
     docs: 'https://docs.netsepio.com/',
     x: 'https://x.com/netsepio',
-    blurb: "NetSepio powers a DePIN-backed internet that’s private, secure, and agentic - connecting users and AI agents through trusted, decentralized networks.",
+    blurb: "NetSepio powers a DePIN-backed internet that's private, secure, and agentic - connecting users and AI agents through trusted, decentralized networks.",
     status: 'live',
     logo: '/projects/netsepio/logo.png',
     banner: '/projects/netsepio/banner.png',
@@ -401,5 +401,16 @@ export const projects: Project[] = [
     x: 'https://x.com/AvaAiLabs',
     native: true,
     tags: ['AI']
+  },
+  {
+    type: 'project',
+    name: 'Rice Race',
+    blurb: 'Challenge yourself in this fast-paced typing game built on RSIE. Experience blockchain-integrated typing challenges that test your speed and accuracy!',
+    logo: '/projects/rice-race/logo.png',
+    banner: '/projects/rice-race/banner.png',
+    status: 'live',
+    website: 'https://risearacer.gaswars.fun',
+    x: 'https://x.com/buildingApps',
+    tags: ['Gaming']
   }
 ];
