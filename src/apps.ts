@@ -234,4 +234,16 @@ export const APPS: Project[] = [
     native: false,
     tags: ['DeFi'],
   },
+  {
+    type: 'project',
+    name: 'NetrumLabs',
+    blurb: "Netrum Labs is pioneering voice-powered AI tools for Web3, making it easy for anyone to create, audit, and deploy smart contracts — securely, instantly, and naturally.",
+    logo: '/projects/netrumLabs/logo.png',
+    banner: '/projects/netrumLabs/banner.png',
+    status: 'live',
+    x: 'https://x.com/netrum_ai',
+    website: 'https://netrumlabs.com/',
+    native: true,
+    tags: ['AI'],
+  },
 ]
