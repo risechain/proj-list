@@ -48,5 +48,16 @@ export const GAMES: Project[] = [
     website: 'https://typerace.gaswars.fun',
     x: 'https://x.com/buildingApps',
     tags: ['Gaming']
+  },
+  {
+    type: 'gaming',
+    name: 'CRUSH RISE',
+    blurb: 'A Candy Crush-inspired blockchain game on RISE. Match blocks, earn points, and compete in the ultimate on-chain gaming arena!',
+    logo: '/projects/crushrise/logo.png',
+    banner: '/projects/crushrise/banner.png',
+    status: 'live',
+    website: 'https://crushrise.gaswars.fun',
+    x: 'https://x.com/buildingApps',
+    tags: ['Gaming']
   }
 ]
