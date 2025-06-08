@@ -234,4 +234,16 @@ export const APPS: Project[] = [
     native: false,
     tags: ['DeFi'],
   },
+  {
+    type: 'project',
+    name: 'YeetCaster',
+    blurb: 'Yeetcaster is the onchain market for belief. Stake your takes, settle debates, and win the upside in the conviction economy.',
+    logo: '/projects/yeetcaster/logo.png',
+    banner: '/projects/yeetcaster/banner.png',
+    status: 'live',
+    website: 'https://rise.yeetcaster.xyz',
+    x: 'https://x.com/yeet_caster',
+    native: false,
+    tags: ['DAO', 'Casino', 'NFT', 'Identity', 'DeFi'],
+  },
 ]
