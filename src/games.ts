@@ -48,5 +48,28 @@ export const GAMES: Project[] = [
     website: 'https://typerace.gaswars.fun',
     x: 'https://x.com/buildingApps',
     tags: ['Gaming']
+  },
+  {
+    type: 'gaming',
+    name: 'CRUSH RISE',
+    blurb: 'A Candy Crush-inspired blockchain game on RISE. Match blocks, earn points, and compete in the ultimate on-chain gaming arena!',
+    logo: '/projects/crushrise/logo.png',
+    banner: '/projects/crushrise/banner.png',
+    status: 'live',
+    website: 'https://crushrise.gaswars.fun',
+    x: 'https://x.com/buildingApps',
+    tags: ['Gaming']
+  },
+  {
+    type: 'gaming',
+    name: 'RiceRise',
+    blurb: 'RiceRise is a blockchain-based rice farming simulation game where players can plant, water, and harvest virtual rice crops to earn real Rice Tokens (RT). It combines the fun of farming games with the benefits of decentralized finance (DeFi).',
+    logo: '/projects/ricerise/logo.png',
+    banner: '/projects/ricerise/banner.png',
+    status: 'live',
+    website: 'https://ricefarming.xyz/',
+    x: 'https://x.com/buildingApps',
+    native: false,
+    tags: ['Gaming', 'DeFi']
   }
 ]
