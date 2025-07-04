@@ -246,4 +246,16 @@ export const APPS: Project[] = [
     native: false,
     tags: ['DAO', 'Casino', 'NFT', 'Identity', 'DeFi'],
   },
+  {
+    type: 'project',
+    name: 'Blocksense',
+    blurb: 'Blocksense is a permissionless oracle network that enables builders to bring real-world data on-chain with maximum flexibility and efficiency. Our WebAssembly-based SDK enables the seamless creation of blockchain oracles that can leverage both CPU and GPU computations.',
+    logo: '/projects/blocksense/logo.png',
+    banner: '/projects/blocksense/banner.png',
+    status: 'live',
+    website: 'https://blocksense.network',
+    x: 'https://x.com/blocksense_',
+    native: false,
+    tags: ['Oracles'],
+  },
 ]
