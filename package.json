@@ -14,12 +14,12 @@
   "license": "ISC",
   "keywords": [],
   "devDependencies": {
-    "@types/jest": "^29.5.14",
+    "@types/jest": "^30.0.0",
     "@types/node": "^22.13.17",
     "@typescript-eslint/eslint-plugin": "^8.29.0",
     "@typescript-eslint/parser": "^8.29.0",
     "eslint": "^9.23.0",
-    "jest": "^29.7.0",
+    "jest": "^30.0.4",
     "ts-jest": "^29.3.1",
     "typescript": "^5.8.2"
   }
