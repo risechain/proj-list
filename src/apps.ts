@@ -294,4 +294,16 @@ export const APPS: Project[] = [
     native: true,
     tags: ['Identity', 'NFT'],
   },
+  {
+    type: 'project',
+    name: 'NFT Auctions',
+    blurb: 'Premium NFT Auction Platform on RISE Testnet. A sophisticated marketplace for digital art auctions powered by Porto passkey wallet, offering secure bidding, instant settlements, and premium digital art trading experiences.',
+    logo: '/projects/nft-auctions/logo.png',
+    banner: '/projects/nft-auctions/banner.png',
+    status: 'live',
+    website: 'https://nfts-auction.netlify.app/',
+    x: 'https://x.com/realchriswilder',
+    native: true,
+    tags: ['NFT'],
+  },
 ]
