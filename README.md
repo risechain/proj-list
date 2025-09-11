@@ -104,7 +104,7 @@ This repository uses GitHub Actions for continuous integration:
 - **Linting**: Code style and quality are automatically checked
 - **Multiple Node Versions**: Tests run on Node.js 18.x and 20.x
 
-[![CI](https://github.com/yourusername/proj-list/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/proj-list/actions/workflows/ci.yml)
+[![CI](https://github.com/risechain/proj-list/actions/workflows/ci.yml/badge.svg)](https://github.com/risechain/proj-list/actions/workflows/ci.yml)
 
 ## Review Process
 
