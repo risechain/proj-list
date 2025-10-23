@@ -3,6 +3,19 @@ import { Project } from "./types";
 export const APPS: Project[] = [
   {
     type: "project",
+    name: "InfinityName",
+    blurb:
+      "Get your lifetime blockchain domain with no renewal fees. One payment, yours forever across multiple networks.",
+    logo: "/projects/InfinityName/logo.png",
+    banner: "/projects/InfinityName/banner.png",
+    status: "live",
+    x: "https://x.com/Infinitynamecom",
+    native: true,
+    website: "https://infinityname.com",
+    tags: ["NFT"],
+  },
+  {
+    type: "project",
     name: "GasPump",
     blurb:
       "Gaspump is a concentrated liquidity DEX in the Rise ecosystem, optimizing capital efficiency and minimizing slippage through narrow liquidity ranges. Dynamic fees and smart liquidity tools enhance trading and boost returns for liquidity providers.",
