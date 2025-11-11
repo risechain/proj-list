@@ -89,4 +89,15 @@ export const GAMES: Project[] = [
     banner: "/projects/space-defender/banner.png",
     tags: ["Gaming", "NFT", "DeFi"],
   },
+  {
+    type: 'gaming', 
+    name: 'RISE 2048',
+    blurb: 'A blockchain-powered 2048 puzzle game on RISE Chain with on-chain leaderboards, NFT achievements that prove your gaming skills forever.', 
+    logo: '/projects/rise-2048/logo.png',
+    banner: '/projects/rise-2048/banner.png',
+    status: "live",
+    website: "https://rise2048.com/",
+    x: "https://x.com/RISE2048",
+    tags:  ["Gaming", "NFT", "DeFi"],
+  },
 ];
