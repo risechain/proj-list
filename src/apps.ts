@@ -3,6 +3,33 @@ import { Project } from "./types";
 export const APPS: Project[] = [
   {
     type: "project",
+    name: "Icarus Finance",
+    blurb:
+    "The central trading and liquidity hub for RISE Chain - trade, earn yield, and direct liquidity across the RISE ecosystem.",
+    logo: "/projects/icarus/logo.jpg",
+    banner: "/projects/icarus/banner.png",
+    status: "live",
+    x: "https://x.com/Icarus_Fi",
+    native: true,
+    website: "https://icarus.finance/",
+    tags: ["DeFi", "DEX"],
+  },
+  {
+    type: "project",
+    name: "RISEx",
+    blurb:
+    "RISE's native onchain EVM-based perps with institutional-grade performance and synchronous composability with all of DeFi",
+    logo: "/projects/RISEx/logo.png",
+    banner: "/projects/RISEx/banner.png",
+    status: "live",
+    x: "https://x.com/risechain",
+    native: true,
+    website: "https://www.rise.trade/",
+    tags: ["DeFi", "DEX"],
+  },
+
+  {
+    type: "project",
     name: "InfinityName",
     blurb:
       "Get your lifetime blockchain domain with no renewal fees. One payment, yours forever across multiple networks.",
