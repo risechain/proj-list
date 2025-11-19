@@ -100,4 +100,15 @@ export const GAMES: Project[] = [
     x: "https://x.com/RISE2048",
     tags:  ["Gaming", "NFT", "DeFi"],
   },
+  {
+    type: 'gaming',
+    name: 'Meteoro.xyz',
+    blurb: 'The fastest card game, only on Rise chain. Select your character, win prizes and unlock the hidden story!',
+    logo: '/projects/meteoroxyz/logo.png',
+    banner: '/projects/meteoroxyz/banner.png',
+    status: "live",
+    website: "https://meteoro.xyz/",
+    x: "https://x.com/meteoroxyz",
+    tags:  ["Gaming", "Casino"],
+  },
 ];
