@@ -394,6 +394,6 @@ export const APPS: Project[] = [
     x: "https://x.com/KyberNetwork",
     docs: "https://docs.kyberswap.com",
     native: false,
-    tags: ["DeFi", "DEX", "AMM", "AI"],
+    tags: ["Aggregator", "DeFi", "Earn"],
   },
 ];

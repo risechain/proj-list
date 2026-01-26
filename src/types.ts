@@ -29,6 +29,8 @@ export type Tag =
 | 'RPC'
 | 'Indexing'
 | 'Data'
+| 'Aggregator'
+| 'Earn'
 
 
 export interface Project {
